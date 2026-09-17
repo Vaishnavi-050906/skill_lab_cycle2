@@ -1,0 +1,2 @@
+This is my new file.
+ Today we are learning file handling and exception handling.
